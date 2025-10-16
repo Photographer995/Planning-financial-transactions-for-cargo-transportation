@@ -1,4 +1,7 @@
 # 🏎️. ݁₊ ⊹ . ݁˖ . FinCalc 🏎️𖦹 ׂ 𓈒 🏁 ／ ⋆ ۪
+## 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-6676F0.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 Учебный проект по Жизненный цикл разработки программного обеспечения — мобильное приложение, разработанное на основе UML, предназначенное для комплексного управления автомобильными расходами, планирования обслуживания и использования ИИ-помощника для водителей.
 
 --------------------------------------------
