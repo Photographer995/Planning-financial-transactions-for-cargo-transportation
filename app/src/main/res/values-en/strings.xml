@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinLogCalc</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="back_button_desc">Back</string>
+
+    <string name="settings_section_application">Application</string>
+    <string name="settings_item_theme">Theme</string>
+    <string name="settings_item_language">Language</string>
+
+    <string name="settings_section_support">Support</string>
+    <string name="settings_item_share">Share</string>
+    <string name="settings_item_share_subtitle">Tell your friends about us</string>
+    <string name="settings_item_contact">Contact Us</string>
+    <string name="settings_item_contact_subtitle">Localization/Wishes/Suggestions</string>
+
+    <string name="settings_section_information">Information</string>
+    <string name="settings_item_privacy_policy">Privacy Policy</string>
+    <string name="settings_item_privacy_policy_subtitle">We respect your privacy</string>
+    <string name="settings_item_user_agreement">User Agreement</string>
+    <string name="settings_item_user_agreement_subtitle">Make sure you follow them</string>
+    <string name="settings_item_google_play">Google Play</string>
+    <string name="settings_item_google_play_subtitle">Your feedback means a lot to us</string>
+    <string name="settings_item_app_version">App Version</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_select_theme_title">Select Theme</string>
+    <string name="dialog_select_language_title">Select Language</string>
+    <string name="dialog_button_cancel">Cancel</string>
+
+    <!-- Theme Options -->
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <!-- Language Options -->
+    <string name="language_russian">Russian</string>
+    <string name="language_english">English</string>
+
+    <!-- Common UI elements -->
+    <string name="common_back">Back</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_greeting">Welcome!</string>
+    <string name="welcome_button_go">Let\'s Go!</string>
+
+    <!-- Main Menu Screen -->
+    <string name="main_menu_section_calculators">Calculators</string>
+    <string name="main_menu_button_fuel_calculator">Fuel Calculator</string>
+    <string name="main_menu_button_electric_car_calculator">Electric Car Calculator</string>
+    <string name="main_menu_button_alcohol_calculator">Alcohol Calculator</string>
+    <string name="main_menu_button_journey_calculator">Trips</string>
+    <string name="main_menu_card_driver_title">Driver\'s Trip</string>
+    <string name="main_menu_section_other">Other</string>
+    <string name="main_menu_button_history">Calculation History</string>
+    <string name="main_menu_card_calculators_history_title">Calculators History</string>
+    <string name="main_menu_button_trip_history">Trip History</string>
+    <string name="main_menu_button_settings">Settings</string> <!-- Can also use settings_title -->
+    <string name="main_menu_button_guides">Guides</string>
+    <string name="main_menu_button_about_app">About App</string>
+
+    <!-- Cat phrases for Lottie animation -->
+    <string name="cat_phrase_1">Hello! I\'m your friendly cat assistant.</string>
+    <string name="cat_phrase_2">Don\'t forget to check your finances.</string>
+    <string name="cat_phrase_3">Shall we calculate something?</string>
+
+    <!-- Chat Screen Neon -->
+    <string name="chat_title">Chat with Nyako</string>
+    <string name="chat_online">online</string>
+    <string name="chat_nyako_description">Your AI assistant for all questions</string>
+    <string name="chat_input_placeholder">Write to Nyako...</string>
+    <string name="chat_typing_indicator">Nyako is typing</string>
+
+    <!-- Feature Screen (Placeholder) -->
+    <string name="feature_screen_title">Screen for: %1$s</string>
+
+    <!-- Trip Calculator Feature -->
+    <string name="driver_trip_activity_label">Driver Trip</string>
+    <string name="trip_choice_driver">Driver Trip</string>
+
+    <!-- Driver Trip Screen -->
+    <string name="driver_trip_title">Driver Trip</string>
+    <string name="trip_status_label">Status</string>
+    <string name="trip_status_not_started">Not Started</string>
+    <string name="trip_status_in_progress">In Progress</string>
+    <string name="trip_status_paused">Paused</string>
+    <string name="trip_status_completed">Completed</string>
+    <string name="trip_time_label">Trip Time</string>
+    <string name="distance_label">Distance</string>
+    <string name="moving_time_label">Moving Time</string>
+    <string name="idle_time_label">Idle Time</string>
+    <string name="current_speed_label">Current Speed</string>
+    <string name="unit_km_short">km</string>
+    <string name="unit_miles_short">mi</string>
+    <string name="unit_km_hr">km/h</string>
+    <string name="unit_miles_hr">mph</string>
+    <string name="button_start_trip">Start Trip</string>
+    <string name="button_pause_trip">Pause</string>
+    <string name="button_resume_trip">Resume</string>
+    <string name="button_end_trip">End Trip</string>
+    <string name="button_log_stop">Log Stop Manually</string>
+    <string name="setting_tracking_mode_label">Tracking Mode</string>
+    <string name="tracking_mode_precise">Precise</string>
+    <string name="tracking_mode_power_saving">Power Saving</string>
+    <string name="setting_units_label">Units</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_miles">Miles</string>
+    <string name="setting_idle_threshold_label">Idle Threshold (%1$d min)</string>
+
+    <!-- Foreground Location Service Notifications -->
+    <string name="driver_trip_notification_channel_name">Driver Trip Tracking</string>
+    <string name="driver_trip_notification_title">Trip Tracking</string>
+    <string name="notification_text_in_progress">Trip in progress: %1$s, Distance: %2$.1f km</string>
+    <string name="notification_text_paused">Trip paused. Total time: %1$s</string>
+
+</resources>

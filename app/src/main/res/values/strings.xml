@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinLogCalc</string>
+    <string name="drawer_header_avatar_description">User avatar</string>
+
+    <!-- Settings Screen -->
+
+    <string name="settings_title">Настройки</string>
+    <string name="back_button_desc">Назад</string>
+
+    <string name="settings_section_application">Приложение</string>
+    <string name="settings_item_theme">Тема</string>
+    <string name="settings_item_language">Язык</string>
+    <string name="settings_item_my_car_subtitle">Управление информацией о вашем автомобиле</string>
+
+    <string name="settings_section_support">Поддержка</string>
+    <string name="settings_item_share">Поделиться</string>
+    <string name="settings_item_share_subtitle">Расскажите о нас</string>
+    <string name="settings_item_contact">Связаться с нами</string>
+    <string name="settings_item_contact_subtitle">Локализация/Пожелания/Предложения</string>
+
+    <string name="settings_section_information">Информация</string>
+    <string name="settings_item_privacy_policy">Политика конфиденциальности</string>
+    <string name="settings_item_privacy_policy_subtitle">Мы уважаем вашу конфиденциальность</string>
+    <string name="settings_item_user_agreement">Правила пользователя</string>
+    <string name="settings_item_user_agreement_subtitle">Убедитесь, что следуете им</string>
+    <string name="settings_item_google_play">Google Play</string>
+    <string name="settings_item_google_play_subtitle">Ваш отзыв много значит для нас</string>
+    <string name="settings_item_app_version">Версия приложения</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_select_theme_title">Выберите тему</string>
+    <string name="dialog_select_language_title">Выберите язык</string>
+    <string name="dialog_button_cancel">Отмена</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_open_settings">Открыть настройки</string>
+
+    <!-- Theme Options -->
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+
+    <!-- Language Options -->
+    <string name="language_russian">Русский</string>
+    <string name="language_english">Английский</string>
+
+    <!-- Common UI elements -->
+    <string name="common_back">Назад</string>
+    <string name="common_save">Сохранить</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="common_edit">Редактировать</string>
+    <string name="common_add_photo">Добавить фото</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_greeting">Приветствие!</string>
+    <string name="welcome_button_go">Поехали!</string>
+
+    <!-- Main Menu Screen -->
+    <string name="main_menu_section_my_car">Моя машина</string>
+    <string name="main_menu_button_my_car">Моя машина</string>
+    <string name="main_menu_section_calculators">Калькуляторы</string>
+    <string name="main_menu_button_fuel_calculator">Калькулятор топлива</string>
+    <string name="main_menu_button_electric_car_calculator">Калькулятор электромашин</string>
+    <string name="main_menu_button_alcohol_calculator">Калькулятор алкоголя</string>
+    <string name="main_menu_button_journey_calculator">Рейсы</string>
+    <string name="main_menu_card_driver_title">Моя поездка </string>
+    <string name="main_menu_button_history">История расчетов</string>
+    <string name="main_menu_card_calculators_history_title">История калькуляторов</string>
+    <string name="main_menu_button_trip_history">История рейса</string>
+    <string name="main_menu_button_settings">Настройки</string>
+    <string name="main_menu_button_guides">Гайды</string>
+    <string name="main_menu_button_about_app">О приложении</string>
+    <string name="main_menu_background_description">Фон с грузовиком, контейнерами и краном</string>
+    <string name="main_menu_drawer_open_description">Открыть меню навигации</string>
+
+    <!-- Cat phrases for Lottie animation -->
+    <string name="cat_phrase_1">Мой лоток чище, чем твои налоговые декларации. &lt;break time="0.2s"/&gt; А теперь &lt;prosody pitch="+5st" rate="slow"&gt;посмейся&lt;/prosody&gt;.</string>
+    <string name="cat_phrase_2">Я не старею, &lt;break time="0.1s"/&gt; я просто становлюсь антикварной мебелью. &lt;break time="0.3s"/&gt; А ты, человек, &lt;prosody pitch="-5st" volume="soft"&gt;просто просроченный корм&lt;/prosody&gt;.</string>
+    <string name="cat_phrase_3">В девяти жизнях я пережил восемь твоих неудачных стартапов. &lt;break time="0.2s"/&gt; Пора начинать &lt;prosody pitch="+8st" rate="fast"&gt;бояться меня&lt;/prosody&gt;.</string>
+    <string name="cat_phrase_4">Ты говоришь о сбережениях? &lt;break time="0.3s"/&gt; У меня в животе лежит коллекция &lt;prosody pitch="+10st" volume="x-loud"&gt;мышей&lt;/prosody&gt;! &lt;break time="0.1s"/&gt; Это мои &lt;prosody rate="slow"&gt;накопления&lt;/prosody&gt;.</string>
+    <string name="cat_phrase_5">Твоя зарплата? &lt;break time="0.2s"/&gt; Это как попытка поймать солнечный зайчик — &lt;prosody volume="soft"&gt;вроде есть&lt;/prosody&gt;, &lt;break time="0.1s"/&gt; а толку никакого.</string>
+    <string name="cat_phrase_6">Если я исчезну, &lt;break time="0.2s"/&gt; то только в направлении вечных запасов &lt;prosody pitch="+7st"&gt;тунца&lt;/prosody&gt;. &lt;break time="0.3s"/&gt; А ты? &lt;break time="0.1s"/&gt; Ты просто &lt;prosody rate="slow" volume="soft"&gt;исчезнешь в рутине&lt;/prosody&gt;.</string>
+    <string name="cat_chat_input_label">Спроси что-нибудь у Няко</string>
+    <string name="cat_chat_send_button">Отправить</string>
+
+    <!-- Chat Screen Neon -->
+    <string name="chat_title">Чат с Няко</string>
+    <string name="chat_online">онлайн</string>
+    <string name="chat_nyako_description">Твой AI-помощник для всех вопросов</string>
+    <string name="chat_input_placeholder">Напишите Няко...</string>
+    <string name="chat_typing_indicator">Няко печатает</string>
+
+    <!-- Feature Screen (Placeholder for generic screens) -->
+    <string name="feature_screen_title">Экран для: %1$s</string>
+
+    <!-- My Car Feature -->
+    <string name="my_car_title">Моя Машина</string>
+    <string name="my_car_input_title">Информация о машине</string>
+    <string name="my_car_details_title">Детали Машины</string>
+    <string name="my_car_brand_label">Марка</string>
+    <string name="my_car_brand_hint">например, Toyota</string>
+    <string name="my_car_model_label">Модель</string>
+    <string name="my_car_model_hint">например, Camry</string>
+    <string name="my_car_year_label">Год выпуска</string>
+    <string name="my_car_year_hint">например, 2023</string>
+    <string name="my_car_license_plate_label">Гос. номер</string>
+    <string name="my_car_license_plate_hint">например, А123ВС777</string>
+    <string name="my_car_vin_label">VIN</string>
+    <string name="my_car_vin_hint">Введите VIN номер</string>
+    <string name="my_car_engine_volume_label">Объем двигателя (л)</string>
+    <string name="my_car_engine_volume_hint">например, 2.0</string>
+    <string name="my_car_fuel_type_label">Тип топлива</string>
+    <string name="my_car_fuel_type_hint">например, Бензин</string>
+    <string name="my_car_acquisition_date_label">Дата приобретения</string>
+    <string name="my_car_acquisition_date_hint">ДД.ММ.ГГГГ</string>
+    <string name="my_car_purchase_price_label">Цена покупки</string>
+    <string name="my_car_purchase_price_hint">Введите сумму</string>
+    <string name="my_car_no_info">Информация о машине не добавлена.</string>
+    <string name="my_car_add_info_button">Добавить информацию о машине</string>
+    <string name="my_car_image_description">Фотография машины</string>
+    <string name="my_car_add_image_action_desc">Добавить фото автомобиля</string>
+    <string name="my_car_tap_to_add_image_text">Нажмите, чтобы добавить изображение</string>
+    <string name="my_car_make_model_icon_desc">Марка и модель</string>
+    <string name="my_car_year_icon_desc">Год выпуска</string>
+    <string name="my_car_acquisition_date_icon_desc">Дата приобретения</string>
+    <string name="my_car_purchase_price_icon_desc">Стоимость покупки</string>
+    <string name="my_car_color_icon_desc">Цвет</string>
+    <string name="my_car_license_plate_icon_desc">Номерной знак</string>
+    <string name="my_car_mileage_icon_desc">Пробег</string>
+    <string name="my_car_fuel_type_icon_desc">Тип топлива</string>
+    <string name="my_car_notes_icon_desc">Заметки</string>
+    <string name="my_car_model_year_suffix">г.</string>
+    <string name="my_car_mileage_label_short">Пробег</string>
+
+    <!-- Bottom Navigation Tabs -->
+    <string name="bottom_nav_car">Машина</string>
+    <string name="bottom_nav_finances">Финансы</string>
+    <string name="bottom_nav_statistics">Статистика</string>
+    <string name="bottom_nav_reminders">Напоминания</string>
+
+    <!-- FAB Descriptions -->
+    <string name="add_finance_entry_desc">Добавить финансовую запись</string>
+    <string name="add_reminder_desc">Добавить напоминание</string>
+
+    <!-- Finances Screen -->
+    <string name="finances_income">Доходы</string>
+    <string name="finances_expenses">Расходы</string>
+    <string name="finances_transactions_list_title">Транзакции</string>
+
+    <!-- Reminders Screen -->
+    <string name="reminders_active_section">Активные</string>
+    <string name="reminders_completed_section">Выполненные</string>
+
+    <!-- Statistics Screen -->
+    <string name="statistics_total_spent">Всего потрачено</string>
+    <string name="statistics_avg_expense">Средний расход</string>
+    <string name="statistics_spent_this_month">Потрачено в этом месяце</string>
+    <string name="statistics_expenses_by_category">Расходы по категориям</string>
+    <string name="statistics_income_expense_by_month">Доходы и расходы/мес.</string>
+
+    <!-- Trip Calculator Feature -->
+    <string name="driver_trip_activity_label">Рейс водителя</string>
+    <string name="trip_choice_driver">Рейс водителя</string>
+
+    <!-- Driver Trip Screen -->
+    <string name="driver_trip_title">Рейс Водителя</string>
+    <string name="trip_status_label">Статус</string>
+    <string name="trip_status_not_started">Не начат</string>
+    <string name="trip_status_in_progress">В пути</string>
+    <string name="trip_status_paused">Пауза</string>
+    <string name="trip_status_completed">Завершён</string>
+    <string name="trip_time_label">Время в рейсе</string>
+    <string name="distance_label">Пробег</string>
+    <string name="moving_time_label">Время в движении</string>
+    <string name="idle_time_label">Время простоя</string>
+    <string name="current_speed_label">Текущая скорость</string>
+    <string name="unit_km_short">км</string>
+    <string name="unit_miles_short">ми</string>
+    <string name="unit_km_hr">км/ч</string>
+    <string name="unit_miles_hr">ми/ч</string>
+    <string name="button_start_trip">Начать рейс</string>
+    <string name="button_pause_trip">Пауза</string>
+    <string name="button_resume_trip">Продолжить</string>
+    <string name="button_end_trip">Завершить рейс</string>
+    <string name="button_log_stop">Фиксировать остановку</string>
+    <string name="setting_tracking_mode_label">Режим трекинга</string>
+    <string name="tracking_mode_precise">Точный</string>
+    <string name="tracking_mode_power_saving">Энергосбережение</string>
+    <string name="setting_units_label">Единицы</string>
+    <string name="unit_km">Км</string>
+    <string name="unit_miles">Мили</string>
+    <string name="setting_idle_threshold_label">Порог простоя (%1$d мин)</string>
+
+    <!-- Foreground Location Service Notifications -->
+    <string name="driver_trip_notification_channel_name">Отслеживание рейса водителя</string>
+    <string name="driver_trip_notification_title">Отслеживание рейса</string>
+    <string name="notification_text_in_progress">Рейс в пути: %1$s, Дистанция: %2$.1f км</string>
+    <string name="notification_text_paused">Рейс на паузе. Общее время: %1$s</string>
+
+    <!-- Permission Dialogs -->
+    <string name="permission_required_title">Требуется разрешение</string>
+    <string name="permission_location_rationale_message">Для отслеживания поездки этому приложению требуется доступ к местоположению. Пожалуйста, предоставьте разрешение.</string>
+    <string name="permission_notification_rationale_message">Для отображения уведомлений о ходе поездки этому приложению требуется разрешение на отправку уведомлений. Пожалуйста, предоставьте разрешение.</string>
+    <string name="permission_location_denied_permanently_message">Разрешение на доступ к местоположению было отклонено навсегда. Пожалуйста, включите его в настройках приложения, чтобы использовать эту функцию.</string>
+    <string name="permission_notification_denied_permanently_message">Разрешение на отправку уведомлений было отклонено навсегда. Пожалуйста, включите его в настройках приложения для получения уведомлений о поездке.</string>
+
+    <string name="main_menu_button_braking_path_calculator">Тормозной путь</string>
+    <string name="main_menu_button_radio">Радио</string>
+    <string name="radio_title">Радио</string>
+</resources>
